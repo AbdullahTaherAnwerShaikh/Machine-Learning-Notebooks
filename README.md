@@ -32,7 +32,7 @@ More topics will be added as I progress through the course.
 
 | Model       | Task                  | Architecture     | Status |
 | ----------- | --------------------- | ---------------- | ------ |
-| Animal Segmentation | Semantic Segmentation | U-Net + ResNet34 | 🔄     |
+| Animal Segmentation | Semantic Segmentation | U-Net + ResNet34 | ✅ Completed  |
 
 ### Tabular
 
