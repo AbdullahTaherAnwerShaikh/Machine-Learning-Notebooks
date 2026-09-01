@@ -32,13 +32,13 @@ More topics will be added as I progress through the course.
 
 | Model       | Task                  | Architecture     | Status |
 | ----------- | --------------------- | ---------------- | ------ |
-| CamVid Tiny | Semantic Segmentation | U-Net + ResNet34 | 🔄     |
+| Animal Segmentation | Semantic Segmentation | U-Net + ResNet34 | 🔄     |
 
 ### Tabular
 
 | Model        | Task                  | Architecture           | Status |
 | ------------ | --------------------- | ---------------------- | ------ |
-| Adult Income | Binary Classification | Tabular Neural Network | 🔄     |
+| Adult Income | Binary Classification | Tabular Neural Network | ✅ Completed |
 
 ## 🛠️ Technologies
 
