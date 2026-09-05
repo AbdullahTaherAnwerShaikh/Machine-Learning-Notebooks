@@ -38,7 +38,7 @@ More topics will be added as I progress through the course.
 
 | Model        | Task                  | Architecture           | Status |
 | ------------ | --------------------- | ---------------------- | ------ |
-| Adult Income | Binary Classification | Tabular Neural Network | ✅ Completed |
+| Titanic Survivors | Tabular Classification | Tabular Neural Network | ✅ Completed |
 
 ## 🛠️ Technologies
 
