@@ -25,8 +25,9 @@ More topics will be added as I progress through the course.
 
 | Model           | Task                 | Architecture | Status      |
 | --------------- | -------------------- | ------------ | ----------- |
-| Apple vs Orange | Image Classification | ResNet18     | ✅ Completed |
-| Horse vs Human  | Image Classification | ResNet34     | ✅ Completed |
+| Apple vs Orange | Binary Image Classification | ResNet18     | ✅ Completed |
+| Horse vs Human  | Binary Image Classification | ResNet34     | ✅ Completed |
+| Bear Classifier  | Multi-Class Image Classification | ResNet18     | ✅ Completed |
 
 ### Image Segmentation
 
