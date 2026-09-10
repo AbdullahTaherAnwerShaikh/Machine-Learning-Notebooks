@@ -28,6 +28,7 @@ More topics will be added as I progress through the course.
 | Apple vs Orange | Binary Image Classification | ResNet18     | ✅ Completed |
 | Horse vs Human  | Binary Image Classification | ResNet34     | ✅ Completed |
 | Bear Classifier  | Multi-Class Image Classification | ResNet18     | ✅ Completed |
+| Bear Classifier  | Multi-Class Image Classification with DataBlocks | ResNet18     | ✅ Completed |
 
 ### Image Segmentation
 
